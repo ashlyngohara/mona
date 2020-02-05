@@ -1,8 +1,22 @@
 h1 {
 	font-size:40px;
+	font-family: 'PT Serif', serif;
+}
+
+h2 {
+
+	font-size:20px;
+}
+
+h3 {
+	font-size:15px;
 }
 
 .flourish-embed { 
 	width:100%;
 	text-align:center;
+ }
+
+ p {
+ 	font-size:15px;
  }
